@@ -25,8 +25,8 @@ ___
 4. On VSCode, click on 'Reopen in container'.
 5. Open you new terminal in VSCode and launch the following commands to clone this repository:
 ```
-git clone https://github.com/EEESlab/APAI25-LAB01-PULP-Embedded-Programming
-cd APAI25-LAB01-PULP-Embedded-Programming/
+git clone https://github.com/EEESlab/APAI25-LAB04-PULP-NN
+cd APAI25-LAB04-PULP-NN/
 ```
 5. Now you're ready to start!
 
@@ -39,8 +39,8 @@ cd APAI25-LAB01-PULP-Embedded-Programming/
 5. On VSCode, click on 'Reopen in container'.
 6. Open you new terminal in VSCode and launch the following commands to clone this repository:
 ```
-git clone https://github.com/EEESlab/APAI25-LAB01-PULP-Embedded-Programming
-cd APAI25-LAB01-PULP-Embedded-Programming/
+git clone https://github.com/EEESlab/APAI25-LAB04-PULP-NN
+cd APAI25-LAB01-PULP-NN/
 ```
 7. Now you're ready to start!
 
