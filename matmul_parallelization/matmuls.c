@@ -97,7 +97,7 @@ void gemm_unroll(int * MatA, int * MatB, int* MatC, int NN, int MM, int KK){
   //       int A2  = MatA[i*KK+(k+2)];
   //       int A3  = MatA[i*KK+(k+3)];
   //       int A4  = MatA[i*KK+(k+4)];
-  //       int A5  = MatA[i*KK+(k+4)];
+  //       int A5  = MatA[i*KK+(k+5)];
   //       int A6  = MatA[i*KK+(k+6)];
   //       int A7  = MatA[i*KK+(k+7)];
   //       int A8  = MatA[i*KK+(k+8)];
